@@ -4,3 +4,8 @@ Steve Tornetta - Product Developer
   Age: 22
   Location: State College
   Salary: 20,000$
+
+Alex Park - Child
+  Age: 21
+  Location: State College
+  Salary: $1
