@@ -14,3 +14,7 @@ Casey Waverka - Developer
   Age: 20
   Location: State College
   Salary: $3.50
+Thaddeus Lorenz - Marketing Director
+  Age: 21
+  Location: State College
+  Salary: $4.50
