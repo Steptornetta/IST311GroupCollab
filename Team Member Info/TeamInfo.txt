@@ -9,3 +9,8 @@ Alex Park - Product Developer
   Age: 21
   Location: State College
   Salary: $10
+
+Casey Waverka - Developer
+  Age: 20
+  Location: State College
+  Salary: $3.50
