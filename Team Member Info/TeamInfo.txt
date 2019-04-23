@@ -14,3 +14,8 @@ Casey Waverka - Developer
   Age: 20
   Location: State College
   Salary: $3.50
+
+Trevor Scofield - Customer Support
+  Age:21
+  Location: State College
+  Salary: copper piping 
